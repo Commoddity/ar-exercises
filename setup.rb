@@ -11,7 +11,7 @@ ActiveRecord::Base.establish_connection(
   adapter: 'postgresql',
   database: 'ar_exercises',
   username: 'development',
-  password: 'development',
+  password: 'jLyqQwKl6sAd3R5LT0dUdy7BJ9lS48',
   host: 'localhost',
   port: 5432,
   pool: 5,
